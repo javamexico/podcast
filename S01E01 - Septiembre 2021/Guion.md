@@ -17,3 +17,14 @@ El bytecode al final es convertido a instrucciones del procesador en el que est�
 - https://mechanical-sympathy.blogspot.com/2012/08/memory-access-patterns-are-important.html (old article, but interesting data)
 - Propuesto por Sergio Martínez
 
+---
+## Burbuja en tech
+
+#### ¿Se está creando una burbuja en el área de tech, específicamente en lo que refiere al desarrollo de software?
+Tengo la impresión de que la demanda de profesionales de software (programadores) es demasiado alta en estos tiempos, da la impresión de que las empresas se los están peleando, y eso está ocasionando que se eleven mucho los salarios que ofrecen.
+
+Veo que ofrecen sueldos y prestaciones bastante atractivas que hace algunos años no había.
+
+Comparten esta idea? o es sólo mi imaginación?
+
+- Propuesto por Eduardo Zarate
