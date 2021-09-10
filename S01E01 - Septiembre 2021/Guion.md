@@ -28,3 +28,12 @@ Veo que ofrecen sueldos y prestaciones bastante atractivas que hace algunos año
 Comparten esta idea? o es sólo mi imaginación?
 
 - Propuesto por Eduardo Zarate
+
+---
+
+## Noticias
+
+* [JEP 400: UTF-8 by Default.](https://openjdk.java.net/jeps/400)
+* [JDK 17](https://openjdk.java.net/projects/jdk/17/)
+* [MICRONAUT FRAMEWORK 3 RELEASED!](https://micronaut.io/2021/08/18/micronaut-framework-3-released/)
+* [Spring Framework 6](https://spring.io/blog/2021/09/02/a-java-17-and-jakarta-ee-9-baseline-for-spring-framework-6)
