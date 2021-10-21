@@ -42,4 +42,5 @@ Esto básicamente es un Rant con el que estoy de acuerdo, quiás podriaos enfoca
 ## Noticias
 
 * https://blogs.oracle.com/java/post/moving-the-jdk-to-a-two-year-lts-cadence
-* 
+* https://twitter.com/graemerocher/status/1450777286979067907
+* https://twitter.com/graemerocher/status/1450518388200124419
