@@ -30,12 +30,14 @@ Esto básicamente es un Rant con el que estoy de acuerdo, quiás podriaos enfoca
 ## Brian Goetz: "I think Project Loom is going to kill Reactive Programming"
 
 - [https://www.youtube.com/watch?v=9si7gK94gLo&t=1156](https://www.youtube.com/watch?v=9si7gK94gLo&t=1156)
+- Propuesto por Benek
 
 ---
 
 ## Mark Reinhold on "LTS" (or not) meaning:
 
 - [https://mail.openjdk.java.net/pipermail/jdk-dev/2021-May/005543.html](https://mail.openjdk.java.net/pipermail/jdk-dev/2021-May/005543.html)
+- Propuesto por Benek
 
 ## Noticias
 
