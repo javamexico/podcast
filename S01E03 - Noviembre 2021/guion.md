@@ -3,7 +3,7 @@ S01E02 - Noviembre 2021
 
 ## tema titulo
 
-#### ¿Por qué el AI Codex no reemplazará a los desarrolladores?
+#### tag line del tema
 
 
 ## Noticias
