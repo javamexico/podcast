@@ -13,4 +13,5 @@
 
 ## Discusión
 
-* 
+* Project Status Reports: Green Shifting
+  - http://ambysoft.com/essays/greenShifting.html
