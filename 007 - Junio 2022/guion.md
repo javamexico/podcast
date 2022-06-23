@@ -3,6 +3,7 @@
 
 ## Tweets
 
+* https://twitter.com/Java_Champions/status/1538950075178942464
 * https://twitter.com/LBacaj/status/1511443543553978371
 
 ## Notas
