@@ -3,7 +3,7 @@
 
 ## Tweets
 
-* https://twitter.com/holly_cummins/status/1548981341273866241
+* Tabla para cuando no tienes idea de las diferentes configuraciones de JVM - https://twitter.com/holly_cummins/status/1548981341273866241
 
 ## Notas
 
