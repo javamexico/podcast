@@ -16,4 +16,4 @@
 
 ## Discusión
 
-* 
+* Qué tipos de tests son los que rifan? https://twitter.com/chochosmx/status/1549865324673368064?s=20&t=Xw9HCjyMItPxjPEdZnl8WQ
