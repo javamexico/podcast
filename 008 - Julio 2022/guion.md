@@ -4,6 +4,9 @@
 ## Tweets
 
 * Tabla para cuando no tienes idea de las diferentes configuraciones de JVM - https://twitter.com/holly_cummins/status/1548981341273866241
+* Slides for "Secrets of Performance Tuning Java on Kubernetes" presented at 
+@jbcnconf
+ 2022 - https://twitter.com/brunoborges/status/1549059784405573632
 
 ## Notas
 
