@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=k_i1VxozC5I
 ## Notas
 
 * Java Dev Day 2022 GDL https://twitter.com/jconfmexico/status/1572724861012967425
-* Java 19
+* Java 19 - https://twitter.com/java/status/1572243891562381313 (20 sept 2022)
 
 ## Discusión
 
