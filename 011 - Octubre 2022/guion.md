@@ -3,6 +3,7 @@
 
 ## Anuncios parroquiales
 
+- ¡Nuestra primera reunión presencial después de 32 meses en CDMX!
 - 20 de Octubre Meetup de la Gdl JUG
 - 10 de Diciembre la Posadev
 
