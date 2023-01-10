@@ -3,7 +3,7 @@
 
 ## Anuncios parroquiales
 
-*
+* 1500 suscriptores!! 🎉
 
 ## Tweetazos y Noticias
 
