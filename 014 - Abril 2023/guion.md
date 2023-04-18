@@ -4,7 +4,7 @@
 ## Anuncios parroquiales
 
 * Dos meetups presenciales seguidos (CDMX):
-  * 26/abr - "Bajando el build de Gradle de 50 a 10 minutos", Domix
+  * 26/abr - "No introducción a Gradle", Domix
   * 29/may - "PostgreSQL, The Time-Series Database You Want", Chris Engelbert
 * Recordarles del apoyo en mentoring para charlas
 
