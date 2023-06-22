@@ -3,7 +3,7 @@
 
 ## Anuncios parroquiales
 
-* Meetup presencial 26 de Julio, Wework Latino Reforma
+* Meetup presencial 26 de Julio, Wework Latino Reforma (patrocinado por Softserve)
 * JConfDominicana, Julio 22, 2023 https://jconfdominicana.org/
 
 ## Tweetazos y Noticias
