@@ -4,6 +4,7 @@
 ## Anuncios parroquiales
 
 * Meetup presencial 26 de Julio, Wework?
+* JConfDominicana, Julio 22, 2023 https://jconfdominicana.org/
 
 ## Tweetazos y Noticias
 
