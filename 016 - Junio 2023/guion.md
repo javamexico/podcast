@@ -3,7 +3,7 @@
 
 ## Anuncios parroquiales
 
-* 
+* Meetup presencial 26 de Julio, Wework?
 
 ## Tweetazos y Noticias
 
