@@ -12,3 +12,5 @@
 ## Discusión
 
 
+* Keep Linux Open and Free—We Can’t Afford Not To
+ https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/
