@@ -5,6 +5,7 @@
 - Meetup presencial CDMX: https://www.meetup.com/es/jvm-mx/events/294779897/
 
 ## Tweetazos y Noticias
+- Charla sobre Clean Code  https://twitter.com/javamexico/status/1681742602213662721
 - El adiós a Kevin Mitnick:
     - https://www.washingtonpost.com/obituaries/2023/07/20/kevin-mitnick-hacker-dies/
     - https://www.knowbe4.com/press/knowbe4-and-the-mitnick-family-honor-the-life-and-legacy-of-kevin-mitnick?utm_content=257553429&utm_medium=social&utm_source=twitter&hss_channel=tw-200211444
