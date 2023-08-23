@@ -6,7 +6,7 @@
 
 ## Tweetazos y Noticias
 - Registro ponencias Java Day Gdl 2023 - https://twitter.com/java_gdl/status/1694060413229637736?s=20
-- Título - link
+- IntelliJ IDEA 2023.2 - https://twitter.com/intellijidea/status/1693911029753794888?s=20
 
 ## Discusión
 * Tema aquí
