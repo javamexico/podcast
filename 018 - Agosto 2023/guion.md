@@ -12,5 +12,5 @@
 - Spring AI / The Spring AI project provides a Spring-friendly API and abstractions for developing AI applications - https://github.com/spring-projects-experimental/spring-ai
 
 ## Discusión
-* Tema aquí
+* AMA
  
