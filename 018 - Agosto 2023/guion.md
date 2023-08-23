@@ -7,6 +7,7 @@
 ## Tweetazos y Noticias
 - Registro ponencias Java Day Gdl 2023 - https://twitter.com/java_gdl/status/1694060413229637736?s=20
 - IntelliJ IDEA 2023.2 - https://twitter.com/intellijidea/status/1693911029753794888?s=20
+- Defining, Measuring, and Managing Technical Debt by Google - https://twitter.com/milan_milanovic/status/1693882836355318022?s=20
 
 ## Discusión
 * Tema aquí
