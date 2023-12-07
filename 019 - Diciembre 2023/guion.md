@@ -11,6 +11,7 @@
 * Despidos VMWare y Spotify
   * https://thenewstack.io/hundreds-of-employees-face-layoffs-in-wake-of-broadcom-vmware-merger/
   * https://edition.cnn.com/2023/12/04/tech/spotify-layoffs-third-round/index.html
+* https://thefrugalarchitect.com/
 
 ## Discusión
 * Tema básico + Tema avanzado en meetup presencial
