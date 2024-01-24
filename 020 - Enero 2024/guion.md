@@ -2,7 +2,7 @@
 --
 
 ## Anuncios parroquiales
-* Meetup enero virtual
+* Meetup enero virtual (AMA)
 * Meetup febrero y marzo presencial
 * CFP jConf Dominicana abierto
 
