@@ -7,7 +7,7 @@
 
 ## Tweetazos y Noticias
 * Java 22
-* XZ Backdoor!
+* XZ Backdoor! - https://twitter.com/AndresFreundTec/status/1774190743776866374
 
 ## Discusión
 * xz, implicaciones
