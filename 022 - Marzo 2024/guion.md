@@ -7,7 +7,7 @@
 * JavaOne está de vuelta en 2025 - https://inside.java/2024/03/19/announcing-javaone-2025/
 
 ## Tweetazos y Noticias
-* Java 22
+* Java 22 — https://www.oracle.com/news/announcement/oracle-releases-java-22-2024-03-19/
 * XZ Backdoor! - https://twitter.com/AndresFreundTec/status/1774190743776866374
 
 ## Discusión
