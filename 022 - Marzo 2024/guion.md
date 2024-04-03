@@ -2,6 +2,7 @@
 --
 
 ## Anuncios parroquiales
+* Meetup CDMX este jueves - https://www.meetup.com/es-ES/jvm-mx/events/300155115/
 * DevNexus 2024 en abril
 * JavaOne está de vuelta en 2025 - https://inside.java/2024/03/19/announcing-javaone-2025/
 
