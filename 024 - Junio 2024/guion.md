@@ -12,7 +12,7 @@
   * https://x.com/zacbowden/status/1801404943720395081
 * The best GraalVM event of the year is back!
   * https://twitter.com/alina_yurenko/status/1803363886269170122
-*  3D Blender corriendo en un teléfono Nokia N95 de 18 años de antigüedad
+* 3D Blender corriendo en un teléfono Nokia N95 de 18 años de antigüedad
   * https://x.com/pablowasserman/status/1803454530798940630
 ## Discusión
 * https://x.com/gunnarmorling/status/1802967287843934561
