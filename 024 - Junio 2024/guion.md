@@ -14,5 +14,7 @@
   * https://twitter.com/alina_yurenko/status/1803363886269170122
 * 3D Blender corriendo en un teléfono Nokia N95 de 18 años de antigüedad
   * https://x.com/pablowasserman/status/1803454530798940630
+* Consejos para prepararte para un proceso de contratación (JUG Nicaragua)
+  * https://x.com/jugnicaragua/status/1802619622178353282 
 ## Discusión
 * https://x.com/gunnarmorling/status/1802967287843934561
