@@ -15,6 +15,8 @@
 * 3D Blender corriendo en un teléfono Nokia N95 de 18 años de antigüedad
   * https://x.com/pablowasserman/status/1803454530798940630
 * Consejos para prepararte para un proceso de contratación (JUG Nicaragua)
-  * https://x.com/jugnicaragua/status/1802619622178353282 
+  * https://x.com/jugnicaragua/status/1802619622178353282
+* Google contratará 100 ingenieros en México en los próximos 3 años
+  * https://www.americaeconomia.com/negocios-e-industrias/google-anuncio-la-creacion-de-un-centro-de-excelencia-de-ingenieria-en-la
 ## Discusión
 * https://x.com/gunnarmorling/status/1802967287843934561
