@@ -16,6 +16,8 @@
   * https://x.com/danieldietrich/status/1814815291953557583
 * Project Leyden Announces Early Access Build: 2-3x Start-up Improvements for Java Applications
   * https://www.infoq.com/news/2024/07/project-leyden-ea-release/ 
+* Suiza requiere que todo el software publco sea OpenSource
+  * https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/
 
 ## Discusión
 * Crowdstrike
