@@ -15,6 +15,9 @@
   https://www.infoq.com/news/2024/08/java-23-so-far/
 * Announcing Dependency Analysis Gradle Plugin 2.0.0!
   * https://dev.to/autonomousapps/announcing-dependency-analysis-gradle-plugin-200-426c
+* JSpecify 1.0.0 and Nullability in Java
+  * https://www.infoq.com/news/2024/08/jspecify-java-nullability/
+  * https://www.infoq.com/news/2024/08/null-restricted-java/
 
 ## Discusión
 * 
