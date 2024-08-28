@@ -2,7 +2,9 @@
 --
 
 ## Anuncios parroquiales
-* 
+* (Community) Java Day Guadalajara 2024
+  * 5 octubre
+  * Oracle MDC Guadalajara
 
 ## Tweetazos y Noticias
 * Architecting with Java Persistence: Patterns and Strategies
@@ -20,4 +22,4 @@
   * https://www.infoq.com/news/2024/08/null-restricted-java/
 
 ## Discusión
-* 
+* "Quiet quitting" a escala masiva en nuestra industria? https://x.com/vincentmayers/status/1828474630346043567
