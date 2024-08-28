@@ -12,7 +12,7 @@
 * 10 Things You Can Learn from Netflix’s Architecture
   * https://dev.to/somadevtoo/10-things-you-can-learn-from-netflixs-architecture-1bnn
 * JDK 23 and JDK 24: What We Know So Far
-  https://www.infoq.com/news/2024/08/java-23-so-far/
+  * https://www.infoq.com/news/2024/08/java-23-so-far/
 * Announcing Dependency Analysis Gradle Plugin 2.0.0!
   * https://dev.to/autonomousapps/announcing-dependency-analysis-gradle-plugin-200-426c
 * JSpecify 1.0.0 and Nullability in Java
