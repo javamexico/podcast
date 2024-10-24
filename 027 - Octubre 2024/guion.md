@@ -2,9 +2,11 @@
 --
 
 ## Anuncios parroquiales
-*
+* Java
 
 ## Tweetazos y Noticias
+* Java Day GDL
+* Vacantes Google y próximas noticias para la comunidad
 * Vavr Relase 0.10.5
   * https://github.com/vavr-io/vavr/releases/tag/v0.10.5 
 
@@ -14,4 +16,6 @@
   * https://github.com/refactorfirst/RefactorFirst
 
 ## Discusión
-*
+* Historias de terror aka La Java Peluda
+- Robo en Encora
+- Amazon Back to office
