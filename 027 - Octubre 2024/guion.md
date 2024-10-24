@@ -1,8 +1,6 @@
 027 - Octubre 2024
 --
 
-## Anuncios parroquiales
-* Java
 
 ## Tweetazos y Noticias
 * Java Day GDL
