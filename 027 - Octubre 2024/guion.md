@@ -21,6 +21,5 @@
 
 ## Discusión
 * Historias de terror aka La Java Peluda
-- Robo en Encora
 - Amazon Back to office
 
