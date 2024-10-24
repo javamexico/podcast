@@ -8,7 +8,9 @@
 * Java Day GDL
 * Vacantes Google y próximas noticias para la comunidad
 * Vavr Relase 0.10.5
-  * https://github.com/vavr-io/vavr/releases/tag/v0.10.5 
+  * https://github.com/vavr-io/vavr/releases/tag/v0.10.5
+* Google anda contratando Javeros
+  * https://www.linkedin.com/jobs/search/?currentJobId=4055076477&keywords=google%20mexico&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=4055076477%2C4048267025%2C4044366709
 
 ## Repos vergas
 * RefactorFirst
