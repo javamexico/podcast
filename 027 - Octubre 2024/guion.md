@@ -22,4 +22,5 @@
 ## Discusión
 * Historias de terror aka La Java Peluda
 - Amazon Back to office
+  - https://www.linkedin.com/pulse/so-long-amazon-i-quit-stephanie-ramos-jn1we/?trackingId=1IrlbuIFTb2UUhwNyw%2Bzcg%3D%3D
 
