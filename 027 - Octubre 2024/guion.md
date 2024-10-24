@@ -5,7 +5,8 @@
 *
 
 ## Tweetazos y Noticias
-*
+* Vavr Relase 0.10.5
+  * https://github.com/vavr-io/vavr/releases/tag/v0.10.5 
 
 ## Discusión
 *
