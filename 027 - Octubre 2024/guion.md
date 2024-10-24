@@ -6,7 +6,6 @@
 
 ## Tweetazos y Noticias
 * Java Day GDL
-  * Posadev https://www.eventbrite.com.mx/e/posadev-2024-tickets-987429878347 
 * Vacantes Google y próximas noticias para la comunidad
   * https://www.linkedin.com/jobs/search/?currentJobId=4055076477&keywords=google%20mexico&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=4055076477%2C4048267025%2C4044366709
 * Vavr Relase 0.10.5
@@ -19,7 +18,8 @@
  
 ## Aviso parroquial
 
-* Preposada Javera AOP (Ahead Of Posadas) para el 7 de diciembre, detalles por confirmar
+* Posadev GDL https://www.eventbrite.com.mx/e/posadev-2024-tickets-987429878347 
+* Preposada CDMX Javera AOP (Ahead Of Posadas) para el 7 de diciembre, detalles por confirmar
 
 ## Discusión
 * Historias de terror aka La Java Peluda
