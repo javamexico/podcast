@@ -3,6 +3,7 @@
 
 ## Tweetazos y Noticias
 * Vavr docs en español
+* Estampida tech a BlueSky 🦋
 
 ## Repos vergas
 * 
