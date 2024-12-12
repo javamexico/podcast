@@ -2,7 +2,8 @@
 --
 
 ## Tweetazos y Noticias
-* Vavr docs en español
+* Recap meetup diciembre: https://youtu.be/sXb6Jjir85k?si=NbabfWj1v3ieIPOg
+* Vavr docs en español: https://docs.vavr.io/es/ @geovannycode
 * Estampida tech a BlueSky 🦋
 * Log4j is still being actively targeted https://radar.cloudflare.com/year-in-review/2024#commonly-exploited-vulnerabilities
 * 24 features targeted for Java 24: https://openjdk.org/projects/jdk/24/
