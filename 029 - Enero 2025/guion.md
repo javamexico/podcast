@@ -9,7 +9,7 @@
 * Java alcanza 200K suscriptores en YouTube! https://x.com/java/status/1884637089355923904
 
 ## Repos vergas
-* 
+* Open-source auth and user management https://github.com/stack-auth/stack
  
 ## Avisos parroquiales
 
