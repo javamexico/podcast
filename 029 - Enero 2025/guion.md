@@ -2,7 +2,7 @@
 --
 
 ## Tweetazos y Noticias
-* 
+* https://x.com/nvidia/status/1876484019535396955?s=46&t=3rQxDi0b7nzyE2TZPEzwYQ
 
 ## Repos vergas
 * 
