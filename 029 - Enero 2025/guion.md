@@ -13,7 +13,7 @@
  
 ## Avisos parroquiales
 
-* 
+* Devnexus 40% de descuento **DN25JUGS**
 
 ## Discusión
 * DeepSeek-R1 puso en jaque a toda la industria occidental
