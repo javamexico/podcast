@@ -1,6 +1,9 @@
 030 - Abril 2025
 --
 
+## Avisos parroquiales
+* Meetup presencial "Migrando Pruebas a Spock" 23 de abril: https://www.meetup.com/es-ES/jvm-mx/events/307311075/
+
 ## Tweetazos y Noticias
 *
 
@@ -15,10 +18,6 @@
 * [JEP draft: JFR Method Timing & Tracing](https://openjdk.org/jeps/8328610)
 * [JEP draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
 * [JEP 483: Ahead-of-Time Class Loading & Linking](https://www.morling.dev/blog/jep-483-aot-class-loading-linking/)
-
-## Avisos parroquiales
-
-*
 
 ## Discusión
 * 
