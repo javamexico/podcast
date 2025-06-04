@@ -10,6 +10,8 @@
 * GitHub Copilot Coding Agent - https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/
 * Introducing OpenAI Codex - https://openai.com/index/introducing-codex/
 * Spring Boot 3.5.0 available now - https://spring.io/blog/2025/05/22/spring-boot-3-5-0-available-now
+* Spring Debugger - https://plugins.jetbrains.com/plugin/25302-spring-debugger
+
 ## Repos vergas
 
 *
