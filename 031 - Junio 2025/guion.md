@@ -6,7 +6,9 @@
 * jConf Dominicana y jConf Barranquilla
 
 ## Tweetazos y Noticias
-* 
+* Microsoft Open Sources the GitHub Copilot Chat Extension - https://www.infoq.com/news/2025/06/microsoft-oss--copilot-extension/
+* GitHub Copilot Coding Agent - https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/
+* Introducing OpenAI Codex - https://openai.com/index/introducing-codex/
 
 ## Repos vergas
 
