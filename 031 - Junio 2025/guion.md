@@ -11,6 +11,7 @@
 * Introducing OpenAI Codex - https://openai.com/index/introducing-codex/
 * Spring Boot 3.5.0 available now - https://spring.io/blog/2025/05/22/spring-boot-3-5-0-available-now
 * Spring Debugger - https://plugins.jetbrains.com/plugin/25302-spring-debugger
+* Spring Modulith 1.4.0 GA - https://spring.io/blog/2025/05/28/spring-modulith-1-4-1-3-6-and-1-2-13-released
 
 ## Repos vergas
 
