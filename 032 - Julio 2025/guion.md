@@ -10,7 +10,8 @@
   * The Embabel Vision https://medium.com/@springrod/the-embabel-vision-967654f13793
 * Why I'm dropping Lombok
   * https://andersswanson.dev/2025/06/25/why-im-dropping-lombok/
-*     
+* Grok se volvio loco
+* https://www.bbc.com/news/articles/c4g8r34nxeno.amp
 
 ## Repos vergas
 
