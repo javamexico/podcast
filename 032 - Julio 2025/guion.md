@@ -11,7 +11,11 @@
 * Why I'm dropping Lombok
   * https://andersswanson.dev/2025/06/25/why-im-dropping-lombok/
 * Grok se volvio loco
-* https://www.bbc.com/news/articles/c4g8r34nxeno.amp
+  * https://www.bbc.com/news/articles/c4g8r34nxeno.amp
+* Nearly 3 out of 4 Oracle Java users say they've been audited in the past 3 years
+  * https://www.theregister.com/2025/07/15/oracle_java_users_audited/
+* I Reviewed 500 Pull Requests — Here’s What Every Java Dev Gets Wrong
+  * https://blog.stackademic.com/i-reviewed-500-pull-requests-heres-what-every-java-dev-gets-wrong-7d2706faa33d 
 
 ## Repos vergas
 
