@@ -15,7 +15,7 @@
 
 ## Repos vergas
 
-*  [dmx-fun](https://www.vavr.io/](https://github.com/domix/dmx-fun) 
+*  [dmx-fun](https://github.com/domix/dmx-fun) 
 
 ## JEPs prrrrros
 
