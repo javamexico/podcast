@@ -28,3 +28,5 @@
 ## Discusión
 * Overemployment
   * This guy took 5 jobs and made 800000$ (2.5 Lakh per day ) working remotely. He worked 140 hours a week and barely sleeps. https://www.reddit.com/r/Btechtards/comments/1lri8wc/this_guy_took_5_jobs_and_made_800000_25_lakh_per/
+* La IA en realidad nos ayuda a ir más rápido?
+  * https://x.com/METR_Evals/status/1943360399220388093 
