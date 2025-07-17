@@ -23,7 +23,7 @@
 
 ## JEPs prrrrros
 
-*
+* [JEP 502 Stable Values - Preview Java 25](https://openjdk.org/jeps/502)
 
 ## Discusión
 * Overemployment
