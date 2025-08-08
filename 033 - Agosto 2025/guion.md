@@ -1,0 +1,21 @@
+033 - Agosto 2025
+--
+
+## Avisos parroquiales
+*
+
+## Tweetazos y Noticias
+* GPT-5 and the new era of work - https://openai.com/index/gpt-5-new-era-of-work/
+* Supabase MCP can leak your entire SQL database - https://www.generalanalysis.com/blog/supabase-mcp-blog
+* Estudio de empleos en donde la IA tiene mayor (y menor) aplicabilidad - https://x.com/cfenollosa/status/1950835436659572742
+* The State of Coding the Future with Java and AI – May 2025 - https://devblogs.microsoft.com/java/the-state-of-coding-the-future-with-java-and-ai/
+*
+
+## Repos vergas
+*
+
+## JEPs prrrrros
+*
+
+## Discusión
+* Overemployment - This guy took 5 jobs and made 800000$ (2.5 Lakh per day ) working remotely. He worked 140 hours a week and barely sleeps. https://www.reddit.com/r/Btechtards/comments/1lri8wc/this_guy_took_5_jobs_and_made_800000_25_lakh_per/
