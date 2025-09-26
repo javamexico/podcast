@@ -5,6 +5,7 @@
 *
 
 ## Tweetazos y Noticias
+* Java 25 ya está aquí! https://openjdk.org/projects/jdk/25/
 * GPT-5 and the new era of work - https://openai.com/index/gpt-5-new-era-of-work/
 * Supabase MCP can leak your entire SQL database - https://www.generalanalysis.com/blog/supabase-mcp-blog
 * Estudio de empleos en donde la IA tiene mayor (y menor) aplicabilidad - https://x.com/cfenollosa/status/1950835436659572742
