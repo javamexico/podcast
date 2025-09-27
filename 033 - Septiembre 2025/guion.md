@@ -14,7 +14,7 @@
 * Malicious MCP server in the wild https://www.linkedin.com/posts/wearekoi_cybersecurity-aisecurity-supplychainattack-activity-7376983761835618304-soL7 
 
 ## Repos vergas
-* https://github.com/brunoborges/jlib-inspector
+* https://github.com/brunoborges/jlib-inspector (aquí la explicación https://devblogs.microsoft.com/java/building-a-runtime-jar-inspector-in-10-hours/)
 
 ## JEPs prrrrros
 *
