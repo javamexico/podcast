@@ -10,7 +10,8 @@
 * Supabase MCP can leak your entire SQL database - https://www.generalanalysis.com/blog/supabase-mcp-blog
 * Estudio de empleos en donde la IA tiene mayor (y menor) aplicabilidad - https://x.com/cfenollosa/status/1950835436659572742
 * The State of Coding the Future with Java and AI – May 2025 - https://devblogs.microsoft.com/java/the-state-of-coding-the-future-with-java-and-ai/
-*
+* The SW engineers paid to fix vibe coded messes https://www.404media.co/the-software-engineers-paid-to-fix-vibe-coded-messes/
+* Malicious MCP server in the wild https://www.linkedin.com/posts/wearekoi_cybersecurity-aisecurity-supplychainattack-activity-7376983761835618304-soL7 
 
 ## Repos vergas
 *
