@@ -6,7 +6,6 @@
 
 ## Tweetazos y Noticias
 * Java 25 ya está aquí! https://openjdk.org/projects/jdk/25/
-* GPT-5 and the new era of work - https://openai.com/index/gpt-5-new-era-of-work/
 * The SW engineers paid to fix vibe coded messes https://www.404media.co/the-software-engineers-paid-to-fix-vibe-coded-messes/
 * Supabase MCP can leak your entire SQL database - https://www.generalanalysis.com/blog/supabase-mcp-blog
 * Malicious MCP server in the wild https://www.linkedin.com/posts/wearekoi_cybersecurity-aisecurity-supplychainattack-activity-7376983761835618304-soL7 
