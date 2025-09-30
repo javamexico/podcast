@@ -8,10 +8,12 @@
 * Java 25 ya está aquí! https://openjdk.org/projects/jdk/25/
 * GPT-5 and the new era of work - https://openai.com/index/gpt-5-new-era-of-work/
 * Supabase MCP can leak your entire SQL database - https://www.generalanalysis.com/blog/supabase-mcp-blog
-* Estudio de empleos en donde la IA tiene mayor (y menor) aplicabilidad - https://x.com/cfenollosa/status/1950835436659572742
-* The State of Coding the Future with Java and AI – May 2025 - https://devblogs.microsoft.com/java/the-state-of-coding-the-future-with-java-and-ai/
+* Estudio de empleos en donde la IA tiene mayor (y menor) aplicabilidad - https://x.com/cfenollosa/status/1950835436659572742 (esto ya lo mencionamos en un podcast)
+* The State of Coding the Future with Java and AI – May 2025 - https://devblogs.microsoft.com/java/the-state-of-coding-the-future-with-java-and-ai/ (esto también, estoy 99.9% seguro que ya lo citamos)
 * The SW engineers paid to fix vibe coded messes https://www.404media.co/the-software-engineers-paid-to-fix-vibe-coded-messes/
 * Malicious MCP server in the wild https://www.linkedin.com/posts/wearekoi_cybersecurity-aisecurity-supplychainattack-activity-7376983761835618304-soL7 
+* Intel surges 22% after $5 billion Nvidia investment, posts best day in nearly 38 years - https://www.cnbc.com/2025/09/18/intel-nvidia-investment.html
+* Quién es Larry Ellison, el magnate que se convirtió en el hombre más rico del mundo - https://www.bbc.com/mundo/articles/c5yqep3zvwvo
 
 ## Repos vergas
 * https://github.com/brunoborges/jlib-inspector (aquí la explicación https://devblogs.microsoft.com/java/building-a-runtime-jar-inspector-in-10-hours/)
