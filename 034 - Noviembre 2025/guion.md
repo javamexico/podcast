@@ -11,7 +11,7 @@
 * [JEPs targeted to JDK 26](https://openjdk.org/projects/jdk/26/)
 
 ## Repos vergas
-*
+* [Java-Projects-Collections](https://github.com/kishanrajput23/Java-Projects-Collections)
 
 ## JEPs prrrrros
 * [JEP 517: HTTP/3 for the HTTP Client API](https://openjdk.org/jeps/517)
