@@ -2,7 +2,9 @@
 --
 
 ## Avisos parroquiales
-* Meetup presencial CDMX
+* Meetup Navideño CDMX - 03 dic
+* DevNexus 50% off Black Friday
+* JakartaOne 2025 - https://jakartaone.jakarta.ee/2025/
 
 ## Tweetazos y Noticias
 * [Ahora Cloudflare tira medio internet](https://blog.cloudflare.com/18-november-2025-outage/)
