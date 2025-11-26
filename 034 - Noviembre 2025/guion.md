@@ -20,4 +20,4 @@
 * [JEP 517: HTTP/3 for the HTTP Client API](https://openjdk.org/jeps/517)
 
 ## Discusión
-* [Es AWS 10x mas lento que un VPS](https://youtu.be/Ps3AI1kTIR4?si=NlaxNqWVWIUW7gsM)
+* [Es AWS 10x mas lento que un VPS?](https://youtu.be/Ps3AI1kTIR4?si=NlaxNqWVWIUW7gsM)
