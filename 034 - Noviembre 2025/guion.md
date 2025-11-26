@@ -12,7 +12,7 @@
 * [Spring 7.0](https://spring.io/blog/2025/11/13/spring-framework-7-0-general-availability)
 * [Gemini 3.0](https://blog.google/products/gemini/gemini-3/#note-from-ceo)
 * [Antigravity](https://antigravity.google/blog/introducing-google-antigravity)
-* [Jetbrains IntelliJ IDEA] (https://blog.jetbrains.com/idea/2025/07/intellij-idea-unified-distribution-plan/) - La nota es vieja, pero me llegó correo el 8 de Nov, supongo que apenas se hizo válida esta unificación. Tengo 4 cupones para regalar!
+* [Jetbrains IntelliJ IDEA](https://blog.jetbrains.com/idea/2025/07/intellij-idea-unified-distribution-plan/) - La nota es vieja, pero me llegó correo el 8 de Nov, supongo que apenas se hizo válida esta unificación. Tengo 4 cupones para regalar!
 ## Repos vergas
 * [Java-Projects-Collections](https://github.com/kishanrajput23/Java-Projects-Collections)
 
