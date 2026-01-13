@@ -3,7 +3,7 @@
 
 ## Avisos parroquiales
 
-* 
+* [jChampions Conference 2026](https://jchampionsconf.com/)
 
 ## Tweetazos y Noticias
 
