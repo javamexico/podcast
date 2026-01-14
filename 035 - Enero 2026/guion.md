@@ -26,6 +26,7 @@
 ## La Deployiza!
 
 * Anecdota del domix
+  * De cuando se cambio de un trabajo "seguro" a un trabajo diferente, que lecciones aprendi y que fue lo que detono ese cambio
 
 ## Discusión
 
