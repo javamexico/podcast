@@ -10,6 +10,9 @@
 * [Brecha de información de Telcel](https://x.com/rbonfil/status/2010378920592392408)
   * ["fix"](https://x.com/rbonfil/status/2010773529076101459)
   * [Falla en rate limiting](https://x.com/ivillasenor/status/2011110173209735582)
+* [Apple Foundation Models will be based on Google's Gemini models and cloud technology](https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/)
+  * [Elon's reaction](https://www.msn.com/en-in/money/news/unreasonable-elon-musk-on-apple-s-deal-to-use-google-s-gemini-for-siri/ar-AA1U6gJF?ocid=finance-verthp-feeds)
+  * [stock market reaction](https://ts2.tech/en/google-stock-goog-rises-after-hours-on-apples-gemini-siri-deal-as-earnings-near/)
 
 ## Repos vergas
 
