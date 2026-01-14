@@ -14,6 +14,7 @@
 * [Apple Foundation Models will be based on Google's Gemini models and cloud technology](https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/)
   * [stock market reaction](https://ts2.tech/en/google-stock-goog-rises-after-hours-on-apples-gemini-siri-deal-as-earnings-near/)
   * [Elon's reaction](https://www.msn.com/en-in/money/news/unreasonable-elon-musk-on-apple-s-deal-to-use-google-s-gemini-for-siri/ar-AA1U6gJF?ocid=finance-verthp-feeds)
+* [Micronaut se unirá a la fundación Commonhaus](https://micronaut.io/2026/01/12/micronaut-announces-plans-to-join-the-commonhaus-foundation/)
 
 ## Repos vergas
 
