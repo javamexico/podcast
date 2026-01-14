@@ -25,10 +25,10 @@
 
 ## La Deployiza!
 
-Esta sección trata sobre anécdotas de miembros de la comunidad, para compartir experiencias, tanto técnicas como profesionales.
+Esta sección trata sobre anécdotas de miembros de la comunidad para compartir experiencias, tanto técnicas como profesionales.
 
 * Anecdota del domix
-  * De cuando se cambió de un trabajo "seguro" a un trabajo diferente, lecciones arendidas y qué fue lo que detonó ese cambio
+  * De cuando se cambió de un trabajo "seguro" a un trabajo diferente, lecciones aprendidas y qué fue lo que detonó ese cambio
 
 ## Discusión
 
