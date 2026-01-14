@@ -4,6 +4,7 @@
 ## Avisos parroquiales
 
 * [jChampions Conference 2026](https://jchampionsconf.com/)
+* jConf Dominicana ya está aceptando [propuestas de charlas](https://www.papercall.io/jconf-dominicana-2026) hasta el 18 de marzo
 
 ## Tweetazos y Noticias
 
