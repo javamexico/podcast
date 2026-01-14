@@ -21,7 +21,7 @@
 
 ## JEPs prrrrros
 
-* 
+* [JEP 522: G1 GC: Improve Throughput by Reducing Synchronization](https://openjdk.org/jeps/522)
 
 ## La Deployiza!
 
