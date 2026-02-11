@@ -14,9 +14,7 @@
     * [Registro telefónico no sirve para nada](https://x.com/ivillasenor/status/2021375445946487117?s=20)
   * [Ataque de Lockbit al gobierno mexicano](https://x.com/Eddy_Talks/status/2015278831645429904)
   * [Filtran cédulas de TODOS los agentes de seguros de México](https://x.com/ivillasenor/status/2020223078509195433?s=20)
-* [Apple Foundation Models will be based on Google's Gemini models and cloud technology](https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/)
-  * [stock market reaction](https://ts2.tech/en/google-stock-goog-rises-after-hours-on-apples-gemini-siri-deal-as-earnings-near/)
-  * [Elon's reaction](https://www.msn.com/en-in/money/news/unreasonable-elon-musk-on-apple-s-deal-to-use-google-s-gemini-for-siri/ar-AA1U6gJF?ocid=finance-verthp-feeds)
+
 * [Micronaut se unirá a la fundación Commonhaus](https://micronaut.io/2026/01/12/micronaut-announces-plans-to-join-the-commonhaus-foundation/)
 
 ## Repos vergas
