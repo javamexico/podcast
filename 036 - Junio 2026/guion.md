@@ -2,8 +2,7 @@
 --
 
 ## Avisos parroquiales
-
-*
+* jConf Dominicana - https://jconfdominicana.org/
 
 ## Tweetazos y Noticias
 * Hackeo cuentas Instagram - https://x.com/bahrambiz/status/2061170259563098352 - https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/
