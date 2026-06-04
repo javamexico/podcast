@@ -7,6 +7,7 @@
 
 ## Tweetazos y Noticias
 * Hackeo cuentas Instagram - https://x.com/bahrambiz/status/2061170259563098352
+* Spring May Release Train Date Changes - https://spring.io/blog/2026/05/11/may-train-shift
 
 ## Repos vergas
 
