@@ -15,15 +15,14 @@
 *
 
 ## JEPs prrrrros
-
 *
 
 ## La Deployiza!
 
 Esta sección trata sobre anécdotas de miembros de la comunidad para compartir experiencias, tanto técnicas como profesionales.
-
 *
 
 ## Discusión
 
-*
+* Spec Driven Development
+* Token Driven Development
