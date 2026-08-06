@@ -31,6 +31,7 @@ Los despidos en el sector tecnológico en 2026 ya han superado el total de 2025.
 ## JEPs prrrrros
 
 * JEP 534: Compact Object Headers by Default - https://openjdk.org/jeps/534
+* https://openjdk.org/projects/jdk/27/
 
 ## La Deployiza!
 
