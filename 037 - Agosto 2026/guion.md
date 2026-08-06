@@ -3,11 +3,10 @@
 
 ## Avisos parroquiales
 
-*
+* JConf Guatemala (7 nov)
 
 ## Tweetazos y Noticias
 * JConf Dominicana
-* JConf Guatemala (7 nov)
 * Java: The Documentary
 * https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851
 * Spring Boot 4.1.0 y Spring Framework 7 se han consolidado como el estándar para arquitecturas nativas de la nube, integrando de forma nativa las Virtual Threads (Proyecto Loom) y eliminando la complejidad de los modelos reactivos tradicionales para la mayoría de los casos de uso.
