@@ -39,4 +39,4 @@ Esta sección trata sobre anécdotas de miembros de la comunidad para compartir 
 
 ## Discusión
 
-*
+* "Ya no hay que revisar el código que genera la IA"
