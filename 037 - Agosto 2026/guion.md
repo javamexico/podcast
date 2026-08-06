@@ -35,7 +35,7 @@ Los despidos en el sector tecnológico en 2026 ya han superado el total de 2025.
 
 Esta sección trata sobre anécdotas de miembros de la comunidad para compartir experiencias, tanto técnicas como profesionales.
 
-*
+* Ofertas de trabajo...
 
 ## Discusión
 
