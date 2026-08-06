@@ -6,11 +6,12 @@
 *
 
 ## Tweetazos y Noticias
-*
+* JConf Dominicana
+* JConf Guatemala (7 nov)
 
 ## Repos vergas
 
-*
+* https://github.com/floci-io/floci
 
 ## JEPs prrrrros
 
