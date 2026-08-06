@@ -26,6 +26,7 @@ Los despidos en el sector tecnológico en 2026 ya han superado el total de 2025.
 ## Repos vergas
 
 * https://github.com/floci-io/floci
+* https://github.com/alirux/tandem
 
 ## JEPs prrrrros
 
