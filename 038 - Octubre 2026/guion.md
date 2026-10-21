@@ -4,6 +4,9 @@
 ## Avisos parroquiales
 
 * JConf Guatemala (7 nov)
+* JConf Perú (28 nov)
+* PosaDev (28 nov)
+* Nerdearla MX (18-21 nov)
 
 ## Tweetazos y Noticias
 * 
