@@ -9,7 +9,7 @@
 * Nerdearla MX (18-21 nov)
 
 ## Tweetazos y Noticias
-* 
+* IntelliJ IDEA’s Java and Kotlin for Cursor and VS Code Hits 1.0 https://blog.jetbrains.com/idea/2026/10/intellij-idea-s-java-and-kotlin-for-cursor-and-vs-code-hits-1-0/
 
 ## Repos vergas
 
