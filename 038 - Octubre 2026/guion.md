@@ -10,6 +10,7 @@
 
 ## Tweetazos y Noticias
 * IntelliJ IDEA’s Java and Kotlin for Cursor and VS Code Hits 1.0 https://blog.jetbrains.com/idea/2026/10/intellij-idea-s-java-and-kotlin-for-cursor-and-vs-code-hits-1-0/
+* La vulnerabilidad en PHP ¿para cuándo una así en Java 6/7/8? [por ejemplo](https://www.oracle.com/security-alerts/alert-cve-2026-91403.html#AppendixJAVA)
 
 ## Repos vergas
 
