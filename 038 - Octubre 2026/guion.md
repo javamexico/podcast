@@ -11,6 +11,7 @@
 ## Tweetazos y Noticias
 * The Arrival of Java 27 https://blogs.oracle.com/java/the-arrival-of-java-27
 * IntelliJ IDEA’s Java and Kotlin for Cursor and VS Code Hits 1.0 https://blog.jetbrains.com/idea/2026/10/intellij-idea-s-java-and-kotlin-for-cursor-and-vs-code-hits-1-0/
+* "Jetbrains Air" is one system for building software with agents https://www.jetbrains.com/air/
 * La vulnerabilidad en PHP ¿para cuándo una así en Java 6/7/8? [por ejemplo](https://www.oracle.com/security-alerts/alert-cve-2026-91403.html#AppendixJAVA)
 
 ## Repos vergas
